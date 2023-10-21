@@ -19,7 +19,7 @@ class FaqController extends Controller
 
 // **note: When you return the same view from different methods,
 // it's essentially overwriting the variables you passed in the previous method.
-// Question: why i can't use different method to pass data on same view file??
+// Question: why can't i use different method to pass data on same view file??
 
     // public function showFAQPage()
     // {
